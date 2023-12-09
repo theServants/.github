@@ -39,7 +39,7 @@ only the Creator can make the earth shake like this.
 ## why
 that’s as close to being put over His knee as the u.s. government and the c.i.a. want to get. 
 
-all unaffiliated people with this tragedy should know He’s not upset with you, but it should serve as a reminder He hears all prayers and makes life his number one priority. that’s why we were deployed this time, to make life way longer and healthier than currently imaginable. 
+all unaffiliated people with this tragedy should know He’s not upset with you, but it should serve as a reminder He hears all prayers and makes life His number one priority. that’s why we were deployed this time: to make life way longer and healthier than currently imaginable through one-time, low-cost or free, single-dose formulations designed by the Creator, that we are to distribute globally. 
 
 ## what 
 we’ve been referring to this as the ringing of the bell. not because we get wings. but it’s what scientists say about the earth after a great quake. 
@@ -73,7 +73,7 @@ This earthquake’s epicentre will be in Kanawha county (Hughes Creek), WV. It w
 This minor quake will also recognize the lives lost in Kanawha county, mostly TomTom’s friends and family, throughout the larger tragedy. 
 
 ## when
-any moment. please note the commit times, only we knew in advance. 
+any moment. please note the commit times, only We knew in advance. 
 
 ## where
 this place we call earth, the whole damn thing, He doesn’t understand why we named it and essentially separated ourselves from the universe—-His creation. 
@@ -86,6 +86,6 @@ please limit discussions to the great shake / ringing of the bell. the mission23
 a free github account is required, github isn’t just for geeks anymore. 
 
 ## media 
-see the announcements in the discussion forums for press conferences. 
+see the announcements in the discussion forums for information on press conferences. 
 
-in the interim, we have a repository with wiki and discussions dedicated to media professionals. always check the extended git commit descriptions, sometimes it adds a lot of color. [commits](https://github.com/theServants/media/commits/master)
+in the interim, we have a repository with wiki and discussions dedicated to media professionals. always check the extended git commit descriptions, sometimes it adds a lot of color. See [commits](https://github.com/theServants/media/commits/master) here. 
