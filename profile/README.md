@@ -5,12 +5,16 @@ we are the two servants of the Creator, micah and thomas. if you call the Creato
 ### the Creator 
 the Creator we work for is the same one who created life, and the universe we all live in. please always capitalize the C. you may use sentence case here, we do this in  introductions to highlight the capital C. 
 
+it is important that We say this: the Creator does not require prayer or worship. if you pray He hears you, if you go to worship Him that’s fine—-but He does not have a religion or set of beliefs that He prefers or endorses. 
+
+however, He does encourage everyone to “pray to verify” anyone introduced to you as, or anything you read that is reportedly by, one of us—-His servants. especially here on github—-they know this is our primary online presence. 
+
 ### pray to verify
 any time you encounter someone introduced to you as, or claiming to be, a Servant of the Creator or you need to verify something attributed to a Servant you should pray to verify it.
 
 the Creator will always verify for you if you are dealing with one or both of the Servants or if it is something we have written or said.
 
-### mission23
+### urgent re: mission23
 we have another organization on github “mission23” however elements within and working for the c.i.a. and f.b.i. hijacked the iphone with the “very key” to access it in an attempt to silence us. 
 
 until we have regained access or while this notice is here, please pray to verify anything you read under the mission23 organization. 
