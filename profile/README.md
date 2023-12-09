@@ -82,4 +82,6 @@ please limit discussions to the great shake / ringing of the bell. the mission23
 a free github account is required, github isn’t just for geeks anymore. 
 
 ## media 
-see the announcements in the discussion forums. 
+see the announcements in the discussion forums for press conferences. 
+
+in the interim, we have a repository with wiki and discussions dedicated to media professionals. always check the extended git commit descriptions, sometimes it adds a lot of color. [commits](https://github.com/theServants/media/commits/master)
