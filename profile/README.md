@@ -74,4 +74,10 @@ any moment. please note the commit times, only we knew in advance.
 ## where
 this place we call earth, the whole damn thing, He doesn’t understand why we named it and essentially separated ourselves from the universe—-His creation. 
 
+## discussion 
+we are opening the [discussion forums](https://github.com/theServants/the-great-shake/discussions/) join in. we will try to respond as much as we are pulled in, He may even answer questions after He puts this bell back together. 
 
+a free github account is required, github isn’t just for geeks anymore. 
+
+## media 
+see the announcements in the discussion forums. 
