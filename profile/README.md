@@ -60,7 +60,7 @@ This earthquake’s epicentre will be located at Mount Calvary Baptist Church in
 
 This will be the largest quake for the massacre that occurred there.
 
-See: [The Massacre at Mount Calvary Baptist Church](https://github.com/theServants/mission23/wiki/The-Massacre-at-Mount-Calvary-Baptist-Church)
+See: [The Massacre of Mount Calvary Baptist Church](https://github.com/theServants/mission23/wiki/The-Massacre-of-Mount-Calvary-Baptist-Church)
 
 ### The Micah Quake 
 This earthquake’s epicentre will be in Jessamine county, KY. It will signal when Micah (born: Kelvin Eugene Williams on March 23, 1977) has started his mission for the Creator. This will be Micah’s 23rd mission on Earth. 
